@@ -1,3 +1,1 @@
-![](https://komarev.com/ghpvc/?username=xdcdmaybe)
-## Stats
-![xdcdmaybe GitHub stats](https://github-readme-stats.vercel.app/api?username=xdcdmaybe&theme=radical)
+<p align="center"><img src="https://reimaginedreadme-lilac.vercel.app/api/embed/xdcdmaybe?panels=userstatistics,toplanguages,commitgraph,toprepositories"/></p>
